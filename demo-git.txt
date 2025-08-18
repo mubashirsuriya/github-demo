@@ -1,0 +1,13 @@
+ 14  git config --global user.name "mubashirsuriya"
+   15  git config --global user.email "mubashirwork240@gmail.com"
+   16  git push -u origin main
+   17  history
+   18  git status
+   19  git status
+   20  git add demo-git.txt
+   21  git add.
+   22  git add .
+   23  git commit -m "first file"
+   24  git branch -M main
+   25  git push -u origin main
+   26  git push

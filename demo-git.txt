@@ -1,3 +1,16 @@
+ 1  git clone https://github.com/mubashirsuriya/github-demo.git
+    2  git status
+    3  cd github-demo/
+    4  git status
+    5  git add demo.txt
+    6  git status
+    7  git commit-m "add text file"
+    8  clear
+    9  git config --global user.name "mubashirsuriya"
+   10  git cinfig --global user.email "mubashirwork240@gmail,com"
+   11  clear
+   12  git push -u origin main
+   13  clear
  14  git config --global user.name "mubashirsuriya"
    15  git config --global user.email "mubashirwork240@gmail.com"
    16  git push -u origin main
